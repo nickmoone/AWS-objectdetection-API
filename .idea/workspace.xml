@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="157013e5-6961-49b3-b7ce-b45eb5cfebcd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/swagger_server/service/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger_server/service/student_service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/student_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/student_service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swagger_server/controllers/default_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/swagger_server/controllers/default_controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

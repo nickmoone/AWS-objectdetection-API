@@ -29,7 +29,7 @@ class TestDefaultController(BaseTestCase):
     def test_delete_student(self):
         """Test case for delete_student
 
-        deletes student
+        gets student
         """
         response = self.client.open(
             '/nickmoone/tutorial/1.0.0/student/{student_id}'.format(student_id=1.2),

@@ -11,8 +11,6 @@ info:
 servers:
 - url: https://virtserver.swaggerhub.com/nickmoone/tutorial/1.0.0
   description: SwaggerHub API Auto Mocking
-- url: https://virtserver.swaggerhub.com/tutorial/1.0.0
-  description: SwaggerHub API Auto Mocking
 paths:
   /student/{student_id}:
     get:
@@ -43,7 +41,7 @@ paths:
           description: not found
       x-openapi-router-controller: swagger_server.controllers.default_controller
     delete:
-      summary: deletes student
+      summary: gets student
       description: |
         delete a single student
       operationId: delete_student
